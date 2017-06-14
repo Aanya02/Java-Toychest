@@ -1,4 +1,4 @@
-public class Cars {
+class Cars {
 
 	String color;
 	
