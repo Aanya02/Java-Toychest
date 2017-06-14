@@ -1,5 +1,5 @@
 //this program includes the object, class, method, and variable
-public class Cars {
+class Cars {
 	int age;
 	String color;
 	public void setAge(int a){
