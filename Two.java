@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 public class Cars {
+=======
+class Cars {
+>>>>>>> b9e71d8beb905d8340f92f7c61073205538efd17
 
 	String color;
 	
